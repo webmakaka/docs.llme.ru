@@ -8,13 +8,24 @@ permalink: /
 
 # LLM Engineer
 
+Приступаем к копанию темы и сбору материалов.
+
+
+<br/>
+
+### [Udemy] LLM Engineering Master AI & Large Language Models (LLMs) [ENG, 2024.11]
+
+<br/>
 
 ![Marley](/img/pic01.png "Marley")
 
+<br/>
 
 ![Marley](/img/pic02.png "Marley")
 
+<br/>
 
+https://github.com/ed-donner/llm_engineering
 
 <br/>
 
