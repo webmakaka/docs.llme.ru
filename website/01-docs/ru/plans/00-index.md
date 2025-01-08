@@ -10,4 +10,4 @@ permalink: /plans/
 
 <br/>
 
-### * [Перенесено сюда](https://programmist.info/plans/)
+### * [Перенесено сюда](https://llmengineer.ru/plans/)
