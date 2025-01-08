@@ -1,12 +1,12 @@
 ---
 layout: page
-title: LLM Engineer
+title: Инженер Large Language Model (LLM)
 description: LLM Приступаем к копанию темы и сбору материалов
 keywords: LLM, курсы, примеры, совместное изучение
 permalink: /
 ---
 
-# LLM Engineer
+# Инженер Large Language Model (LLM)
 
 Приступаем к копанию темы и сбору материалов.
 
