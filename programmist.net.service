@@ -1,0 +1,21 @@
+[Unit]
+Description=programmist.net
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill programmist.net
+ExecStartPre=-/usr/bin/docker rm programmist.net
+ExecStartPre=-/usr/bin/docker pull marley/programmist.net:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name programmist.net   \
+ -p 4013:80                        \
+ marley/programmist.net'
+ExecStop=-/usr/bin/docker kill programmist.net
+ExecStop=-/usr/bin/docker rm programmist.net
+
+[Install]
+WantedBy=multi-user.target
