@@ -8,7 +8,7 @@ permalink: /
 
 # Инженер Large Language Model (LLM)
 
-Приступаем к копанию темы и сбору материалов.
+Приступаем к копанию темы и сбору материалов. Будет кому интересно, сделаем репо публичным.
 
 
 <br/>
@@ -40,9 +40,22 @@ https://t.me/matematika_org/
 
 https://github.com/ed-donner/llm_engineering
 
+
+
 <br/>
 
-### [MLOPS](https://mlops.ru)
+### Сравнение моделей
+
+https://lmarena.ai/
+
+
+<br/>
+
+### Основной наш сайт по настройке окружений для обучения и разработки [MLOPS](https://mlops.ru)
+
+<br/>
+
+### Основной наш сайт по вычислениям [MATEMATIKA](https://matematika.org)
 
 <br/>
 
