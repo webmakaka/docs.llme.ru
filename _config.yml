@@ -1,12 +1,12 @@
 # Site settings
-title: Программист
+title: LLM Engineer
 
-description: Инструменты для организации процессов разработки и инструменты разработки программных продуктов
+description: LLM Engineer
 
-keywords: программист, инструменты для организации процесса разработки, инструменты для разработки программных продуктов
+keywords: LLM Engineer
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://programmist.net" # the base hostname & protocol for your site
+url: "https://llmengineer.ru" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
