@@ -26,25 +26,6 @@ https://t.me/matematika_org/
 
 <br/>
 
-### [Udemy] LLM Engineering Master AI & Large Language Models (LLMs) [ENG, 2024.11]
-
-<br/>
-
-![Marley](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
-
-<br/>
-
-![Marley](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
-
-<br/>
-
-**GitHub**  
-https://github.com/ed-donner/llm_engineering
-
-
-
-<br/>
-
 ### [Sinan Ozdemir] [O'Reilly] Practical Retrieval Augmented Generation (RAG) [ENG, 2024.11]
 
 <br/>
@@ -60,6 +41,27 @@ https://www.oreilly.com/library/view/practical-retrieval-augmented/9780135414378
 
 **GitHub**  
 https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/tree/main
+
+
+
+
+<br/>
+
+### [Udemy] LLM Engineering Master AI & Large Language Models (LLMs) [ENG, 2024.11]
+
+<br/>
+
+![Marley](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
+
+<br/>
+
+![Marley](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
+
+<br/>
+
+**GitHub**  
+https://github.com/ed-donner/llm_engineering
+
 
 
 <br/>
