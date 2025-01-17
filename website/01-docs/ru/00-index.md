@@ -30,14 +30,15 @@ https://t.me/matematika_org/
 
 <br/>
 
-![Marley](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)")
+![Marley](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
 
 <br/>
 
-![Marley](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)")
+![Marley](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
 
 <br/>
 
+**GitHub**  
 https://github.com/ed-donner/llm_engineering
 
 
@@ -48,7 +49,7 @@ https://github.com/ed-donner/llm_engineering
 
 <br/>
 
-![Marley](/img/Practical-Retrieval-Augmented-Generation.jpeg "Practical Retrieval Augmented Generation (RAG)")
+![Marley](/img/Practical-Retrieval-Augmented-Generation.jpeg "Practical Retrieval Augmented Generation (RAG)"){: .center-image }
 
 
 <br/>
@@ -57,6 +58,7 @@ https://www.oreilly.com/library/view/practical-retrieval-augmented/9780135414378
 
 <br/>
 
+**GitHub**  
 https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/tree/main
 
 
@@ -66,6 +68,12 @@ https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/tree/main
 
 https://lmarena.ai/
 
+
+<br/>
+
+### Vector database (Походу не вариант)
+
+https://www.pinecone.io/
 
 <br/>
 
