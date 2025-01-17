@@ -30,16 +30,34 @@ https://t.me/matematika_org/
 
 <br/>
 
-![Marley](/img/pic01.png "Marley")
+![Marley](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)")
 
 <br/>
 
-![Marley](/img/pic02.png "Marley")
+![Marley](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)")
 
 <br/>
 
 https://github.com/ed-donner/llm_engineering
 
+
+
+<br/>
+
+### [Sinan Ozdemir] [O'Reilly] Practical Retrieval Augmented Generation (RAG) [ENG, 2024.11]
+
+<br/>
+
+![Marley](/img/Practical-Retrieval-Augmented-Generation.jpeg "Practical Retrieval Augmented Generation (RAG)")
+
+
+<br/>
+
+https://www.oreilly.com/library/view/practical-retrieval-augmented/9780135414378/
+
+<br/>
+
+https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/tree/main
 
 
 <br/>
@@ -55,7 +73,7 @@ https://lmarena.ai/
 
 <br/>
 
-### Основной наш сайт по вычислениям [MATEMATIKA](https://matematika.org)
+### Основной наш сайт по вычислениям [МАТЕМАТИКА](https://matematika.org)
 
 <br/>
 
