@@ -62,10 +62,28 @@ https://t.me/matematika_org/
 Помните, что создание LLM с нуля требует значительных усилий, поэтому вы можете рассмотреть возможность донастройки существующих моделей, чтобы значительно сократить время и ресурсы, необходимые для построения вашей системы.
 
 
+<br/>
+
+### [Book][Manning][Christopher Brousseau and Matthew Sharp] LLMs in Production [ENG, 2024]
+
+
+**GitHub**  
+https://github.com/IMJONEZZ/LLMs-in-Production
 
 <br/>
 
-### [Sinan Ozdemir] [O'Reilly] Practical Retrieval Augmented Generation (RAG) [ENG, 2024.11]
+### [VideoCourse][Zerotomastery] [Daniel Bourke] Learn Hugging Face by Building a Custom AI Model [ENG, 2024]
+
+
+**WebSite**  
+https://learnhuggingface.com/
+
+**GitHub**  
+https://github.com/mrdbourke/learn-huggingface
+
+<br/>
+
+### [VideoCourse][Sinan Ozdemir][O'Reilly] Practical Retrieval Augmented Generation (RAG) [ENG, 2024.11]
 
 <br/>
 
@@ -94,7 +112,7 @@ https://www.pinecone.io/
 
 <br/>
 
-### [Udemy] LLM Engineering Master AI & Large Language Models (LLMs) [ENG, 2024.11]
+### [VideoCourse][Udemy] LLM Engineering Master AI & Large Language Models (LLMs) [ENG, 2024.11]
 
 <br/>
 
@@ -121,7 +139,7 @@ https://lmarena.ai/
 
 <br/>
 
-### Основной наш сайт по настройке окружений для обучения и разработки [MLOPS](https://mlops.ru)
+### Основной наш сайт по настройке окружений для обучения и разработки [MLOps](https://mlops.ru)
 
 <br/>
 
