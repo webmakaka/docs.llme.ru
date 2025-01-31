@@ -62,6 +62,28 @@ https://t.me/matematika_org/
 Помните, что создание LLM с нуля требует значительных усилий, поэтому вы можете рассмотреть возможность донастройки существующих моделей, чтобы значительно сократить время и ресурсы, необходимые для построения вашей системы.
 
 
+
+<br/>
+
+### [YouTube][freeCodeCamp.org][Andrew Brown] DeepSeek-R1 Crash Course [ENG, 2025]
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/_CXwZ5xyFno" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [YouTube][freeCodeCamp.org] LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) [ENG, 2025]
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/Q7mS1VHm3Yw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main
+
+
+
+
 <br/>
 
 ### [Book][Manning][Christopher Brousseau and Matthew Sharp] LLMs in Production [ENG, 2024]
