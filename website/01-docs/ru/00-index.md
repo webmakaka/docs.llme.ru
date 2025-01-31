@@ -82,7 +82,13 @@ https://t.me/matematika_org/
 https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main
 
 
+<br/>
 
+### [YouTube][freeCodeCamp.org] Ollama Course – Build AI Apps Locally [ENG, 2024]
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/GWB9ApTPTv4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <br/>
 
