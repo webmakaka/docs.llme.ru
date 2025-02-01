@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Инженер Large Language Model (LLM)
+title: Large Language Model (LLM) Engineering
 description: LLM Приступаем к копанию темы и сбору материалов
 keywords: LLM, курсы, примеры, совместное изучение
 permalink: /
 ---
 
-# Инженер Large Language Model (LLM)
+# Large Language Model (LLM) Engineering
 
 Приступаем к копанию темы и сбору материалов. Будет кому интересно, сделаем репо публичным.
 
@@ -70,6 +70,9 @@ https://t.me/matematika_org/
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/_CXwZ5xyFno" frameborder="0" allowfullscreen></iframe>
 </div>
+
+**GitHub:**  
+https://github.com/omenking/free-genai-bootcamp-2025
 
 <br/>
 

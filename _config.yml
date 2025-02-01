@@ -1,9 +1,9 @@
 # Site settings
-title: LLM Engineer
+title: LLM Engineering
 
-description: LLM Engineer
+description: LLM Engineering
 
-keywords: LLM Engineer
+keywords: LLM Engineering
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://llmengineer.ru" # the base hostname & protocol for your site
