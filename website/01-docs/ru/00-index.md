@@ -61,6 +61,22 @@ https://t.me/matematika_org/
 
 Помните, что создание LLM с нуля требует значительных усилий, поэтому вы можете рассмотреть возможность донастройки существующих моделей, чтобы значительно сократить время и ресурсы, необходимые для построения вашей системы.
 
+<br/>
+
+### [YouTube][Aleksandar Haber PhD] Run Distilled DeepSeek-R1 with Graphics User Interface Locally and Privately on Windows [ENG, 2025]
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/m1uq-LfHJjc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<br/>
+
+### [YouTube][Aleksandar Haber PhD] Correctly Install and Run RAGFlow Locally with Llama/Ollama and Create Local Knowledge Base and Chat [ENG, 2024]
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/zYaqpv3TaCg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 <br/>
