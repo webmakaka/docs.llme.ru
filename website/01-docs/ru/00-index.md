@@ -65,17 +65,6 @@ https://t.me/matematika_org/
 
 <br/>
 
-### [YouTube][freeCodeCamp.org][Andrew Brown] DeepSeek-R1 Crash Course [ENG, 2025]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/_CXwZ5xyFno" frameborder="0" allowfullscreen></iframe>
-</div>
-
-**GitHub:**  
-https://github.com/omenking/free-genai-bootcamp-2025
-
-<br/>
-
 ### [YouTube][freeCodeCamp.org] LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) [ENG, 2025]
 
 <div align="center">
