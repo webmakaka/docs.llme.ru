@@ -61,6 +61,19 @@ https://t.me/matematika_org/
 
 Помните, что создание LLM с нуля требует значительных усилий, поэтому вы можете рассмотреть возможность донастройки существующих моделей, чтобы значительно сократить время и ресурсы, необходимые для построения вашей системы.
 
+<br/>
+
+### [Videos][Paulo] DeepSeek R1 & Ollama Guide: Build Local AI Applications [ENG, 2025][1h 43m]
+
+<br/>
+
+![DeepSeek R1 & Ollama Guide: Build Local AI Applications](/img/deepseek-ollama-local-ai-applications.jpg "DeepSeek R1 & Ollama Guide: Build Local AI Applications"){: .center-image }
+
+<br/>
+
+
+[GitHub](https://github.com/pdichone/deepseek-r1-course)
+
 
 <br/>
 
@@ -166,11 +179,11 @@ https://www.pinecone.io/
 
 <br/>
 
-![Marley](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
+![LLM Engineering Master AI & Large Language Models](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
 
 <br/>
 
-![Marley](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
+![LLM Engineering Master AI & Large Language Models](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
 
 <br/>
 
