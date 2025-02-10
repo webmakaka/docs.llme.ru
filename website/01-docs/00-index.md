@@ -61,18 +61,30 @@ https://t.me/matematika_org/
 
 Помните, что создание LLM с нуля требует значительных усилий, поэтому вы можете рассмотреть возможность донастройки существующих моделей, чтобы значительно сократить время и ресурсы, необходимые для построения вашей системы.
 
-<br/>
-
-### [Videos][Paulo] DeepSeek R1 & Ollama Guide: Build Local AI Applications [ENG, 2025][1h 43m]
 
 <br/>
 
-![DeepSeek R1 & Ollama Guide: Build Local AI Applications](/img/deepseek-ollama-local-ai-applications.jpg "DeepSeek R1 & Ollama Guide: Build Local AI Applications"){: .center-image }
+### [VideoCourse][Zerotomastery] AI Engineering Bootcamp: Retrieval Augmented Generation (RAG) for LLMs [ENG, 2025]
+
+
+https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-generation/
+
 
 <br/>
 
+### [YouTube][Aleksandar Haber PhD] RAGFlow with Local LLMs and Ollama: Step-by-Step Guide for Free Retrieval-Augmented Generation [ENG, 2025]
 
-[GitHub](https://github.com/pdichone/deepseek-r1-course)
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/kAuVcCwqgwQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+### [YouTube][Aleksandar Haber PhD] Run DeepSeek-R1 on Raspberry Pi Locally and Securely with Graphics User Interface-Step by Step Guide [ENG, 2025]
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/iEg5J58jo9A" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 <br/>
@@ -90,6 +102,19 @@ https://t.me/matematika_org/
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/m1uq-LfHJjc" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br/>
+
+### [Videos][Paulo] DeepSeek R1 & Ollama Guide: Build Local AI Applications [ENG, 2025][1h 43m]
+
+<br/>
+
+![DeepSeek R1 & Ollama Guide: Build Local AI Applications](/img/deepseek-ollama-local-ai-applications.jpg "DeepSeek R1 & Ollama Guide: Build Local AI Applications"){: .center-image }
+
+<br/>
+
+
+[GitHub](https://github.com/pdichone/deepseek-r1-course)
 
 
 <br/>
@@ -128,6 +153,13 @@ https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main
 <br/>
 
 ### [Book][Manning][Christopher Brousseau and Matthew Sharp] LLMs in Production [ENG, 2024]
+
+
+<br/>
+
+![LLMs in Production](/img/books/LLMs-in-Production.jpg "LLMs in Production"){: .center-image }
+
+<br/>
 
 
 **GitHub**  
