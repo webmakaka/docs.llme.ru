@@ -94,3 +94,22 @@ https://www.manning.com/livevideo/master-and-build-large-language-models
 7.6. Extracting and saving responses
 7.7. Evaluating the fine-tuned LLM 
 ```
+
+
+<br/>
+
+
+### U01M01-Python-Environment-Setup-Video
+
+
+Можно на оф.сайте заценить.
+
+https://livevideo.manning.com/module/1820_1_1/master-and-build-large-language-models/chapter-1---understanding-large-language-models/python-environment-setup-video?
+
+
+```
+$ pip install uv
+$ uv venv --python=python3.10
+$ source .venv/bin/activate
+$ uv pip install -r requirements.txt
+```
