@@ -23,6 +23,20 @@ https://github.com/rasbt/LLMs-from-scratch
 <br/>
 
 
+### [Videos] [Sebastian Raschka and Abhinav Kimothi] Master and Build Large Language Models [ENG, 54 Lessons (17h 15m) | 2.91 GB]
+
+
+<br/>
+
+![Master and Build Large Language Models](/img/books/Master-and-Build-Large-Language-Models.jpg "Master and Build Large Language Models"){: .center-image }
+
+
+<br/>
+
+https://www.manning.com/livevideo/master-and-build-large-language-models
+
+<br/>
+
 
 ```
 1.1. Python Environment Setup Video 
