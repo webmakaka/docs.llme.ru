@@ -8,17 +8,19 @@ permalink: /
 
 # Large Language Model (LLM) Engineering
 
-Приступаем к копанию темы и сбору материалов. Будет кому интересно, сделаем репо публичным.
+Приступаем к копанию темы и сбору материалов.  
+Будет кому интересно, сделаем репо публичным.
 
 
 <br/>
 
-### [Book] [Sebastian Raschka] Build a Large Language Model (From Scratch) [ENG, 2024]
+### [[Book] [Sebastian Raschka] Build a Large Language Model (From Scratch) [ENG, 2024]](/books/build-a-large-language-model-from-scratch/)
 
 
 <br/>
 
-![Build a Large Language Model (From Scratch)](/img/books/Build-a-Large-Language-Model-From-Scratch.png "Build a Large Language Model (From Scratch)"){: .center-image }
+[![Build a Large Language Model (From Scratch)](/img/books/Build-a-Large-Language-Model-From-Scratch.png "Build a Large Language Model (From Scratch)"){: .center-image }](/books/build-a-large-language-model-from-scratch/)
+
 
 
 На просторах интернетов найдена книга и видео к книге на 17 часов. 
