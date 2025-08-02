@@ -13,6 +13,26 @@ permalink: /
 
 <br/>
 
+### [Book] [Sebastian Raschka] Build a Large Language Model (From Scratch) [ENG, 2024]
+
+
+<br/>
+
+![Build a Large Language Model (From Scratch)](/img/books/Build-a-Large-Language-Model-From-Scratch.png "Build a Large Language Model (From Scratch)"){: .center-image }
+
+
+На просторах интернетов найдена книга и видео к книге на 17 часов. 
+Сам автор рассказывает и показывает что да как.
+Бум копать и присматриваться. М.б. кто присоединится.
+
+<br/>
+
+**github:**  
+https://github.com/rasbt/LLMs-from-scratch
+
+
+<br/>
+
 ### Планы по изучению и применению LLM в организации
 
 Интересует возможность дообучить модель технологического гиганта приватными (но не представляющими особой секретности) данными нашей компании, чтобы ответы по возникающим вопросам можно было получить быстрее и меньше отвлекать специалистов, занятых другими задачами.
