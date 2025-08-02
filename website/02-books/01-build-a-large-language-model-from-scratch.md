@@ -1,9 +1,9 @@
 ---
 layout: page
-title: [Sebastian Raschka] Build a Large Language Model (From Scratch) [ENG, 2024]
-description: [Sebastian Raschka] Build a Large Language Model (From Scratch) [ENG, 2024]
-keywords: Books, LLM, From Scratch
-permalink: /books/build-a-large-language-model-from-scratch/
+title: "Build a Large Language Model (From Scratch) — Sebastian Raschka [2024]"
+description: "A practical guide to building LLMs from scratch by Sebastian Raschka. Covers architecture, training, and implementation."
+keywords: "LLM, Large Language Models, NLP, Deep Learning, Sebastian Raschka, Book"
+permalink: "/books/build-a-large-language-model-from-scratch/"
 ---
 
 
