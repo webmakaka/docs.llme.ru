@@ -252,16 +252,6 @@ https://github.com/ed-donner/llm_engineering
 https://lmarena.ai/
 
 
-
-
-<br/>
-
-### Основной наш сайт по настройке окружений для обучения и разработки [MLOps](https://mlops.ru)
-
-<br/>
-
-### Основной наш сайт по вычислениям [МАТЕМАТИКА](https://matematika.org)
-
 <br/>
 
 эл.почта:
