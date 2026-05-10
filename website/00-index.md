@@ -8,28 +8,28 @@ permalink: /
 
 # Large Language Model (LLM) Engineering
 
+// LLM Leaderboard  
+https://www.vellum.ai/llm-leaderboard  
+https://lmarena.ai/
+
+<br/>
+
 Приступаем к копанию темы и сбору материалов.  
 Будет кому интересно, сделаем репо публичным.
 
-https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch
 <br/>
 
 ### [[Книга][Рашка С.] Строим LLM с нуля [RUS, 2025]](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
 
-
 <br/>
 
-[![Строим LLM с нуля](https://raw.githubusercontent.com/webmakaka/Build-a-Large-Language-Model-From-Scratch/refs/heads/main/img/Build-a-Large-Language-Model-From-Scratch.jpg "Строим LLM с нуля"){: .center-image }](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
-
-
+[![Строим LLM с нуля](https://raw.githubusercontent.com/webmakaka/Build-a-Large-Language-Model-From-Scratch/refs/heads/main/img/Build-a-Large-Language-Model-From-Scratch.jpg 'Строим LLM с нуля'){: .center-image }](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
 
 <br/>
 
 ### [VideoCourse][Zerotomastery] AI Engineering Bootcamp: Retrieval Augmented Generation (RAG) for LLMs [ENG, 2025]
 
-
 https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-generation/
-
 
 <br/>
 
@@ -46,7 +46,6 @@ https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-genera
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/iEg5J58jo9A" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 <br/>
 
@@ -70,13 +69,11 @@ https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-genera
 
 <br/>
 
-![DeepSeek R1 & Ollama Guide: Build Local AI Applications](/img/deepseek-ollama-local-ai-applications.jpg "DeepSeek R1 & Ollama Guide: Build Local AI Applications"){: .center-image }
+![DeepSeek R1 & Ollama Guide: Build Local AI Applications](/img/deepseek-ollama-local-ai-applications.jpg 'DeepSeek R1 & Ollama Guide: Build Local AI Applications'){: .center-image }
 
 <br/>
 
-
 [GitHub](https://github.com/pdichone/deepseek-r1-course)
-
 
 <br/>
 
@@ -86,11 +83,9 @@ https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-genera
     <iframe width="853" height="480" src="https://www.youtube.com/embed/zYaqpv3TaCg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 <br/>
 
 [Записал команды, чтобы не поить автора кофеином](/tools/rag/ragflow/setup/)
-
 
 <br/>
 
@@ -101,7 +96,6 @@ https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-genera
 </div>
 
 https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main
-
 
 <br/>
 
@@ -115,13 +109,11 @@ https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main
 
 ### [Book][Manning][Christopher Brousseau and Matthew Sharp] LLMs in Production [ENG, 2024]
 
-
 <br/>
 
-![LLMs in Production](/img/books/LLMs-in-Production.jpg "LLMs in Production"){: .center-image }
+![LLMs in Production](/img/books/LLMs-in-Production.jpg 'LLMs in Production'){: .center-image }
 
 <br/>
-
 
 **GitHub**  
 https://github.com/IMJONEZZ/LLMs-in-Production
@@ -129,7 +121,6 @@ https://github.com/IMJONEZZ/LLMs-in-Production
 <br/>
 
 ### [VideoCourse][Zerotomastery] [Daniel Bourke] Learn Hugging Face by Building a Custom AI Model [ENG, 2024]
-
 
 **WebSite**  
 https://learnhuggingface.com/
@@ -143,8 +134,7 @@ https://github.com/mrdbourke/learn-huggingface
 
 <br/>
 
-![Marley](/img/Practical-Retrieval-Augmented-Generation.jpeg "Practical Retrieval Augmented Generation (RAG)"){: .center-image }
-
+![Marley](/img/Practical-Retrieval-Augmented-Generation.jpeg 'Practical Retrieval Augmented Generation (RAG)'){: .center-image }
 
 <br/>
 
@@ -155,16 +145,11 @@ https://www.oreilly.com/library/view/practical-retrieval-augmented/9780135414378
 **GitHub**  
 https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/tree/main
 
-
-
 <br/>
 
-+ Vector database (Походу не вариант)
+-   Vector database (Походу не вариант)
 
 https://www.pinecone.io/
-
-
-
 
 <br/>
 
@@ -172,28 +157,19 @@ https://www.pinecone.io/
 
 <br/>
 
-![LLM Engineering Master AI & Large Language Models](/img/pic01.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
+![LLM Engineering Master AI & Large Language Models](/img/pic01.png 'LLM Engineering Master AI & Large Language Models (LLMs)'){: .center-image }
 
 <br/>
 
-![LLM Engineering Master AI & Large Language Models](/img/pic02.png "LLM Engineering Master AI & Large Language Models (LLMs)"){: .center-image }
+![LLM Engineering Master AI & Large Language Models](/img/pic02.png 'LLM Engineering Master AI & Large Language Models (LLMs)'){: .center-image }
 
 <br/>
 
 **GitHub**  
 https://github.com/ed-donner/llm_engineering
 
-
-<br/>
-
-+ Сравнение моделей
-
-https://lmarena.ai/
-
-
 <br/>
 
 эл.почта:
 
-![Marley](/img/a3333333mail.gif "Marley")
-
+![Marley](/img/a3333333mail.gif 'Marley')
