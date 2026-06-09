@@ -30,6 +30,13 @@ https://www.youtube.com/watch?v=7TuZTVwnmhk
 
 Смотрим...
 
++ 
+
+**AI Hero: 7-Day AI Agents Crash-Course**
+
+https://aishippinglabs.com/courses/aihero
+
+
 <br/>
 
 ### [[Книга][Рашка С.] Строим LLM с нуля [RUS, 2025]](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
