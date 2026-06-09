@@ -17,6 +17,19 @@ https://lmarena.ai/
 Приступаем к копанию темы и сбору материалов.  
 Будет кому интересно, сделаем репо публичным.
 
+
+<br/>
+
+### [YouTube][DataTalksClub] Free Course on Building LLM Applications with RAG, Agents & Vector Search
+
+<br/>
+
+https://github.com/DataTalksClub/llm-zoomcamp/
+
+https://www.youtube.com/watch?v=7TuZTVwnmhk
+
+Смотрим...
+
 <br/>
 
 ### [[Книга][Рашка С.] Строим LLM с нуля [RUS, 2025]](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
