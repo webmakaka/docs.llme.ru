@@ -20,7 +20,7 @@ https://lmarena.ai/
 
 <br/>
 
-### [YouTube][DataTalksClub] Free Course on Building LLM Applications with RAG, Agents & Vector Search
+### [YouTube][DataTalksClub] Free Course on Building LLM Applications with RAG, Agents & Vector Search [ENG, 2026]
 
 <br/>
 
