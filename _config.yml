@@ -5,11 +5,11 @@ description: LLM Engineering
 
 keywords: LLM Engineering
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://llmengineer.ru" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://docs.llme.ru' # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
 
 plugins:
-  - jekyll-sitemap
+    - jekyll-sitemap
