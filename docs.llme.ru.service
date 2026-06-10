@@ -1,0 +1,21 @@
+[Unit]
+Description=docs.llme.ru
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill docs.llme.ru
+ExecStartPre=-/usr/bin/docker rm docs.llme.ru
+ExecStartPre=-/usr/bin/docker pull marley/docs.llme.ru:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name docs.llme.ru   \
+ -p 4013:80                        \
+ marley/docs.llme.ru'
+ExecStop=-/usr/bin/docker kill docs.llme.ru
+ExecStop=-/usr/bin/docker rm docs.llme.ru
+
+[Install]
+WantedBy=multi-user.target
