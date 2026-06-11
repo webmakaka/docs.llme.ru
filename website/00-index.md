@@ -8,6 +8,22 @@ permalink: /
 
 # Large Language Model (LLM) Engineering
 
+<br/>
+
+### Предлоожение
+
+"Если есть чем поделиться, показать как нужно и вообще" (пообщаться).
+
+t.me/matematika_org
+
+Как оказалось, инженеры (иногда) достаточно разговорчивы и готовы делиться своими знаниями, кодом и ресурсами.
+
+<br/>
+
+### Ссылки
+
+<br/>
+
 // LLM Leaderboard  
 https://www.vellum.ai/llm-leaderboard  
 https://lmarena.ai/
@@ -16,7 +32,6 @@ https://lmarena.ai/
 
 Приступаем к копанию темы и сбору материалов.  
 Будет кому интересно, сделаем репо публичным.
-
 
 <br/>
 
@@ -30,12 +45,9 @@ https://www.youtube.com/watch?v=7TuZTVwnmhk
 
 Смотрим...
 
-+ 
-
-**AI Hero: 7-Day AI Agents Crash-Course**
+-   **AI Hero: 7-Day AI Agents Crash-Course**
 
 https://aishippinglabs.com/courses/aihero
-
 
 <br/>
 
