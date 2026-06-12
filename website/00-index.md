@@ -30,6 +30,14 @@ https://lmarena.ai/
 
 <br/>
 
+### [YouTube][Яндекс Образование] LLM Scaling Week [RUS, 2025]
+
+<br/>
+
+https://www.youtube.com/watch?v=3v43mnx31OQ&list=PL6Wui14DvQPwM6e8aFmNrQ3AigUSR1yV9
+
+<br/>
+
 ### [YouTube][DataTalksClub] Free Course on Building LLM Applications with RAG, Agents & Vector Search [ENG, 2026]
 
 <br/>
@@ -154,29 +162,6 @@ https://learnhuggingface.com/
 
 **GitHub**  
 https://github.com/mrdbourke/learn-huggingface
-
-<br/>
-
-### [VideoCourse][Sinan Ozdemir][O'Reilly] Practical Retrieval Augmented Generation (RAG) [ENG, 2024.11]
-
-<br/>
-
-![Marley](/img/Practical-Retrieval-Augmented-Generation.jpeg 'Practical Retrieval Augmented Generation (RAG)'){: .center-image }
-
-<br/>
-
-https://www.oreilly.com/library/view/practical-retrieval-augmented/9780135414378/
-
-<br/>
-
-**GitHub**  
-https://github.com/sinanuozdemir/oreilly-retrieval-augmented-gen-ai/tree/main
-
-<br/>
-
--   Vector database (Походу не вариант)
-
-https://www.pinecone.io/
 
 <br/>
 
