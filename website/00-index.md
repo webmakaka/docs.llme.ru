@@ -28,6 +28,26 @@ t.me/matematika_org
 https://www.vellum.ai/llm-leaderboard  
 https://lmarena.ai/
 
+
+<br/>
+
+### [YouTube] Stanford Online - CS329A Self-Improving AI Agents [ENG, 2026]
+
+```
+1. Course Overview
+2. Test-Time Compute Scaling
+3. Robust Verification
+4. Learning from Feedback with Tools/Code
+5. Planning and Multi-Step Reasoning
+6. Train Time Scaling/Scaling RL
+7. Self-Improvement and Deep Research Agents
+8. Agentic Evaluations and Long Horizon Tasks
+9. Future Research Areas
+```
+
+
+https://www.youtube.com/playlist?list=PLangBM27OtEA&si=qKV_3kHlLTqkssi6
+
 <br/>
 
 ### [YouTube][Яндекс Образование] LLM Scaling Week [RUS, 2025]
