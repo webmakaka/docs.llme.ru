@@ -31,6 +31,12 @@ https://lmarena.ai/
 
 <br/>
 
+// Интерактивный анализ и сравнение архитектурных графов нейросетевых моделей  
+https://hfviewer.com/compare/qwen3.6-27b-vs-qwen3.8-27b
+
+
+<br/>
+
 ### [YouTube] Stanford Online - CS329A Self-Improving AI Agents [ENG, 2026]
 
 ```
