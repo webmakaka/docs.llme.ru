@@ -28,13 +28,27 @@ t.me/matematika_org
 https://www.vellum.ai/llm-leaderboard  
 https://lmarena.ai/
 
-<br/>
-
-### [YouTube][Яндекс Образование] LLM Scaling Week [RUS, 2025]
 
 <br/>
 
-https://www.youtube.com/watch?v=3v43mnx31OQ&list=PL6Wui14DvQPwM6e8aFmNrQ3AigUSR1yV9
+// Интерактивный анализ и сравнение архитектурных графов нейросетевых моделей  
+https://hfviewer.com/compare/qwen3.6-27b-vs-qwen3.8-27b
+
+
+<br/>
+
+### [[Книга][Рашка С.] Build A Reasoning Model (From Scratch) [ENG, 2026]](https://github.com/webmakaka/reasoning-from-scratch)
+
+<img src="https://raw.githubusercontent.com/webmakaka/reasoning-from-scratch/refs/heads/main/img/Build-A-Reasoning-Model-From-Scratch-Cover.webp" alt="Build A Reasoning Model (From Scratch)" height="256px">
+
+
+<br/>
+
+### [[Книга][Рашка С.] Строим LLM с нуля [RUS, 2025]](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/webmakaka/Build-a-Large-Language-Model-From-Scratch/refs/heads/main/img/Build-a-Large-Language-Model-From-Scratch.jpg" alt="Строим LLM с нуля" height="256px">
 
 <br/>
 
@@ -48,131 +62,12 @@ https://www.youtube.com/watch?v=7TuZTVwnmhk
 
 <br/>
 
-### [[Книга][Рашка С.] Строим LLM с нуля [RUS, 2025]](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
+### [YouTube][Яндекс Образование] LLM Scaling Week [RUS, 2025]
 
 <br/>
 
-[![Строим LLM с нуля](https://raw.githubusercontent.com/webmakaka/Build-a-Large-Language-Model-From-Scratch/refs/heads/main/img/Build-a-Large-Language-Model-From-Scratch.jpg 'Строим LLM с нуля'){: .center-image }](https://github.com/webmakaka/Build-a-Large-Language-Model-From-Scratch)
+https://www.youtube.com/watch?v=3v43mnx31OQ&list=PL6Wui14DvQPwM6e8aFmNrQ3AigUSR1yV9
 
-<br/>
-
-### [VideoCourse][Zerotomastery] AI Engineering Bootcamp: Retrieval Augmented Generation (RAG) for LLMs [ENG, 2025]
-
-https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-generation/
-
-<br/>
-
-### [YouTube][Aleksandar Haber PhD] RAGFlow with Local LLMs and Ollama: Step-by-Step Guide for Free Retrieval-Augmented Generation [ENG, 2025]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/kAuVcCwqgwQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-### [YouTube][Aleksandar Haber PhD] Run DeepSeek-R1 on Raspberry Pi Locally and Securely with Graphics User Interface-Step by Step Guide [ENG, 2025]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/iEg5J58jo9A" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-### [YouTube][Aleksandar Haber PhD] Easiest Local and Private Installation of DeepSeek-R1 with Graphics User Interface in Browser [ENG, 2025]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/9tLFLGQsZyM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-### [YouTube][Aleksandar Haber PhD] Run Distilled DeepSeek-R1 with Graphics User Interface Locally and Privately on Windows [ENG, 2025]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/m1uq-LfHJjc" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-### [Videos][Paulo] DeepSeek R1 & Ollama Guide: Build Local AI Applications [ENG, 2025][1h 43m]
-
-<br/>
-
-![DeepSeek R1 & Ollama Guide: Build Local AI Applications](/img/deepseek-ollama-local-ai-applications.jpg 'DeepSeek R1 & Ollama Guide: Build Local AI Applications'){: .center-image }
-
-<br/>
-
-[GitHub](https://github.com/pdichone/deepseek-r1-course)
-
-<br/>
-
-### [YouTube][Aleksandar Haber PhD] Correctly Install and Run RAGFlow Locally with Llama/Ollama and Create Local Knowledge Base and Chat [ENG, 2024]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/zYaqpv3TaCg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-[Записал команды, чтобы не поить автора кофеином](/tools/rag/ragflow/setup/)
-
-<br/>
-
-### [YouTube][freeCodeCamp.org] LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) [ENG, 2025]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/Q7mS1VHm3Yw" frameborder="0" allowfullscreen></iframe>
-</div>
-
-https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main
-
-<br/>
-
-### [YouTube][freeCodeCamp.org] Ollama Course – Build AI Apps Locally [ENG, 2024]
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/GWB9ApTPTv4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-### [Book][Manning][Christopher Brousseau and Matthew Sharp] LLMs in Production [ENG, 2024]
-
-<br/>
-
-![LLMs in Production](/img/books/LLMs-in-Production.jpg 'LLMs in Production'){: .center-image }
-
-<br/>
-
-**GitHub**  
-https://github.com/IMJONEZZ/LLMs-in-Production
-
-<br/>
-
-### [VideoCourse][Zerotomastery] [Daniel Bourke] Learn Hugging Face by Building a Custom AI Model [ENG, 2024]
-
-**WebSite**  
-https://learnhuggingface.com/
-
-**GitHub**  
-https://github.com/mrdbourke/learn-huggingface
-
-<br/>
-
-### [VideoCourse][Udemy] LLM Engineering Master AI & Large Language Models (LLMs) [ENG, 2024.11]
-
-<br/>
-
-![LLM Engineering Master AI & Large Language Models](/img/pic01.png 'LLM Engineering Master AI & Large Language Models (LLMs)'){: .center-image }
-
-<br/>
-
-![LLM Engineering Master AI & Large Language Models](/img/pic02.png 'LLM Engineering Master AI & Large Language Models (LLMs)'){: .center-image }
-
-<br/>
-
-**GitHub**  
-https://github.com/ed-donner/llm_engineering
 
 <br/>
 
