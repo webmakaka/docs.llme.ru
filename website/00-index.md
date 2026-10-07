@@ -41,6 +41,10 @@ https://lmarena.ai/
 // Интерактивный анализ и сравнение архитектурных графов нейросетевых моделей  
 https://hfviewer.com/compare/qwen3.6-27b-vs-qwen3.8-27b
 
+<br/>
+
+### [[YouTube][FreeCodeCamp][Vuk Rosic] Build & Train a GLM-5.3-Flash Model From Scratch with Python [ENG (+ Russian Audio Track), 2026]](https://www.youtube.com/watch?v=-gfgQfw2g_E)
+
 
 <br/>
 
